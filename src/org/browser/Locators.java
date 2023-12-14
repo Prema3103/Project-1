@@ -10,10 +10,7 @@ public class Locators {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello World");
-		
-//		ChromeOptions ops = new ChromeOptions();
-//		ops.addArguments("--remote-allow-origins=*");
-		
+				
 		System.setProperty("webdriver.gecko.driver","C:\\Users\\Documents\\chromedriver_win64\\chromedriver.exe");
 	       
 		  // InterfaceName refName=new In terfaceChildClass 
